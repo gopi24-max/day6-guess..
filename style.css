@@ -1,0 +1,53 @@
+#main{
+    height: 450px;
+    width: 650px;
+    border: 5px solid black;
+    margin: auto;
+    margin-top: 450px;
+    text-align: justify;
+    text-align: center;
+    background: url("./image.jfif");
+    background-size:auto;
+    background-size: cover;
+    color: aliceblue;
+    border-radius: 50px;
+
+    
+
+}
+#rules{
+    text-align: justify;
+    margin-left: 100px;
+}
+#one,#two{
+    justify-content: space-evenly;
+    
+}
+body{
+    background:url(./bg1.avif);
+    background-size: auto;
+    background-size: 100%;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: x-large;
+}
+input{
+    font-size: 20px;
+    height: 30px;
+    width: 250px;
+}
+button{
+    height: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 8px;
+    width: 80px;
+    border-radius: 50px;
+}
+
